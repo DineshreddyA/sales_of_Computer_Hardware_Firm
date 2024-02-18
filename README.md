@@ -1,4 +1,4 @@
-# sales_of_computer_hEDWARE_firm
+# sales_of_computer_hardware_firm
 
 Data Analysis Using SQL
 Show all customer records
